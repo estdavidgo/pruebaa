@@ -1,0 +1,21 @@
+cd desktop/pagina
+dir
+git init
+git add .
+git commit -m “miPagina”
+git remote add origin https://github.com/estdavidgo/prueba.git
+git remote add origin https://github.com/estdavidgo/pagina.git
+git push origin master
+
+----------------------------------
+
+gh-pages
+----->create Branch:gh-pages
+----->setting
+----->Branches
+-----> master
+----->gh-pages
+----->Update
+
+
+
